@@ -26,8 +26,8 @@ message = useColor("Hello World", "135", "75", "100")
 # Printing the message to console
 print(message)
 ```
-2) Generate Linear Background
-<br>
+2) Generate Linear Background <br>
+
 ![image](https://user-images.githubusercontent.com/72091386/125189007-cf1ed780-e253-11eb-9c6d-0d11b7a2d3c2.png)
 ```python
 import colormania
