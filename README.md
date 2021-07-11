@@ -27,6 +27,7 @@ message = useColor("Hello World", "135", "75", "100")
 print(message)
 ```
 2) Generate Linear Background
+![image](https://user-images.githubusercontent.com/72091386/125189007-cf1ed780-e253-11eb-9c6d-0d11b7a2d3c2.png)
 ```python
 import colormania
 
@@ -35,6 +36,5 @@ for x in range(0, 200, 20):
 
     print(message)
 ```
-
 ## License
 ColorMania is Licensed under MIT.
